@@ -1,0 +1,71 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Page-1" id="DZfTlKiHmt3aFLI8Hxoc">
+    <mxGraphModel dx="1900" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vNhPSbdsUpA9jxxeu-AZ-2" value="User" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="155" y="500" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vNhPSbdsUpA9jxxeu-AZ-3" value="Online Bookstore System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="160" y="290" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vNhPSbdsUpA9jxxeu-AZ-4" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="160" y="110" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vNhPSbdsUpA9jxxeu-AZ-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;startArrow=block;startFill=1;" parent="1" source="vNhPSbdsUpA9jxxeu-AZ-3" target="vNhPSbdsUpA9jxxeu-AZ-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="270" as="sourcePoint" />
+            <mxPoint x="70" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="310" />
+              <mxPoint x="110" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vNhPSbdsUpA9jxxeu-AZ-6" value="Register/Login&amp;nbsp;&lt;div&gt;Search Books&amp;nbsp;&lt;div&gt;Issue/Return Books&amp;nbsp;&lt;div&gt;Reserve Book&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="180" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vNhPSbdsUpA9jxxeu-AZ-7" value="" style="endArrow=block;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;endFill=1;" parent="1" source="vNhPSbdsUpA9jxxeu-AZ-3" target="vNhPSbdsUpA9jxxeu-AZ-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="280" as="sourcePoint" />
+            <mxPoint x="260" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="310" />
+              <mxPoint x="300" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vNhPSbdsUpA9jxxeu-AZ-8" value="Confirmation&lt;div&gt;Search Results&lt;/div&gt;&lt;div&gt;Notification&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="300" y="185" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vNhPSbdsUpA9jxxeu-AZ-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;startArrow=block;startFill=1;" parent="1" source="vNhPSbdsUpA9jxxeu-AZ-2" target="vNhPSbdsUpA9jxxeu-AZ-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="480" as="sourcePoint" />
+            <mxPoint x="180" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="520" />
+              <mxPoint x="110" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vNhPSbdsUpA9jxxeu-AZ-10" value="" style="endArrow=block;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;endFill=1;" parent="1" source="vNhPSbdsUpA9jxxeu-AZ-2" target="vNhPSbdsUpA9jxxeu-AZ-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="480" as="sourcePoint" />
+            <mxPoint x="210" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="520" />
+              <mxPoint x="300" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vNhPSbdsUpA9jxxeu-AZ-11" value="Logs&lt;div&gt;User Info&lt;/div&gt;&lt;div&gt;Inventory Status&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="10" y="390" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vNhPSbdsUpA9jxxeu-AZ-12" value="Add/Remove Books&lt;div&gt;Manage Roles&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="295" y="410" width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
